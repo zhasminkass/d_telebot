@@ -27,7 +27,7 @@ DEBUG = True
 
 # settings.py
 
-ALLOWED_HOSTS = ['164.90.184.155', 'your_domain.com', 'localhost']  # Добавьте IP-адрес в список разрешенных хостов
+ALLOWED_HOSTS = ['164.90.184.155']  # Добавьте IP-адрес в список разрешенных хостов
 
 
 # Application definition
