@@ -25,7 +25,9 @@ SECRET_KEY = 'django-insecure-twi&^9c$lckf7-!*yq2z7qc$ey@o6b+c_bejb^d%!%yz9xi#3*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+# settings.py
+
+ALLOWED_HOSTS = ['164.90.184.155', 'your_domain.com', 'localhost']  # Добавьте IP-адрес в список разрешенных хостов
 
 
 # Application definition
